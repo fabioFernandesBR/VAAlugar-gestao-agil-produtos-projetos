@@ -10,3 +10,6 @@ Neste repositório você vai encontrar:
 - Diretório com imagens criadas em Figma como wireframes da interface.
 - arquivo video.txt contendo o link para vídeo de apresentação.
 
+O link para a apresentação Google Presentations completa: https://docs.google.com/presentation/d/e/2PACX-1vRn_sIHPNZlRyAe9KCzZDvTVRijpkkkuwzqLItFJVzTHa-1b-mtcw7H999BYWAVZbDYjosmUJNcJS4Q/pub?start=false&loop=false&delayms=3000
+
+
