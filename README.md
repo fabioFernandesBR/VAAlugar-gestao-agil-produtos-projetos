@@ -11,7 +11,7 @@ Neste repositório você vai encontrar:
 - Diretório com imagens criadas em Figma como wireframes da interface. Temos também o link para o Figma: https://www.figma.com/design/ul4crSYR5j5GcG55yT8bHW/VAAlugar-app?node-id=37-1726&t=59FLmwLJGQyluaEh-1
 - arquivo video.txt contendo o link para vídeo de apresentação: https://www.youtube.com/watch?v=lkUCtJRxJd8
 
-## observação
+## Observação
 O tema VA'Alugar já foi tratado neste curso em sprints anteriores. Caso haja curiosidade, seguem links para os materiais produzidos nestas sprints.
 
 ### Sprint: Desenvolvimento Full Stack Básico:
